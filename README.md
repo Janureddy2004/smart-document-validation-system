@@ -1,5 +1,6 @@
 # Smart Document Validation System
-
+## Demo Video
+[Watch Demo](https://drive.google.com/file/d/18RtdKyjPECWXIpSQHr4Tup9YcES8osRH/view?usp=sharing)
 ## Overview
 This project is an AI-based document validation system designed to process insurance PDFs. It extracts key information from documents and validates it against structured data using both rule-based logic and semantic search.
 

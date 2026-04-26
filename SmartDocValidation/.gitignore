@@ -1,0 +1,21 @@
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Excel / test data (optional)
+data.xlsx
+
+# PDFs (IMPORTANT - your real docs)
+*.pdf
